@@ -1,1 +1,1 @@
-Meu segundo primeiro no git (alterado e atualizado)!
+Meu segundo primeiro no GIT 
